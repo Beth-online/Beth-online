@@ -23,16 +23,5 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 # ✦ Hi there fellows !
 
